@@ -1,0 +1,60 @@
+
+.d-flex button{
+    margin: 1.4em 0.6em;
+    padding: 0.6em 2.3em;
+}
+
+.d-flex table{
+
+    margin: 1em 10em;
+
+}
+
+.success{
+    background-color: aquamarine;
+    padding: 1em;
+}
+
+.warning{
+    background-color: salmon;
+    padding: 1em;
+}
+
+table .btnedit{
+
+    color:burlywood;
+    cursor: pointer;
+}
+
+#text{
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin lightgray;
+}
+
+#button{
+    padding: 10px;
+    width: 100px;
+    color: ivory;
+    background-color: lightblue;
+    border: none;
+}
+
+#box{
+    background-color: gray;
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+}
+
+a:link, a:visited {
+    color: whitesmoke ;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  a:link:active, a:visited:active {
+    color: none ;
+  }
+
