@@ -37,6 +37,5 @@ function retrieveData(e){
             textvalues[id++] = value.textContent;
         }        
     }
-    return textvalues;
-    /* console.log(td); */
+    return textvalues;    
 }

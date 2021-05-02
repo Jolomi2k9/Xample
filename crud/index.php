@@ -30,6 +30,7 @@ $_SESSION;
   <main>
     <div class="container text-center">
       <h1 class="py-4 bg-dark text-light rounded"><i class="fas fa-gamepad"></i>Dimensional Games</h1>
+      <!-- bg-dark text-light rounded -->     
 
       <div class="d-flex justify-content-center">
           
